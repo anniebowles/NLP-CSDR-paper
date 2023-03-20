@@ -1,5 +1,5 @@
-# NLP-CSDR-paper
+# NLP CSDR paper
 
-Links to NLP systems that were used to supplement data in the CSDR.
+The NLP systems used in the COVID-19 Shared Data Resource (CSDR) will be available upon paper acceptance.
 
-Reason for stay: https://github.com/department-of-veterans-affairs/ccmap 
+
